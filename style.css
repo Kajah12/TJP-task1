@@ -1,0 +1,36 @@
+.card{width: 20%; 
+    background-color: blue;
+    padding: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10;
+
+}
+
+img{
+    width: 20%;
+    border-radius: 50%;
+    margin-bottom: 15pix;
+}
+
+figcaption{font-weight: bold;
+
+}
+
+.email{
+    font-size: 10px;
+}
+a{
+    background-color: white;
+    padding: 15px 30px;
+    border-radius: 24px;
+    text-decoration: none;
+    font-weight: 700;
+    color: blue;
+    display:block 
+    width:max-content
+}
+
+
+
+
