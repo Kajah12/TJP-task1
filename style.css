@@ -1,36 +1,35 @@
-.card{width: 20%; 
-    background-color: blue;
-    padding: 20px;
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
-    margin-bottom: 10;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Montserrat+Alternates&display=swap');
+
+body{
+    font-family: 'Montserrat Alternates', sans-serif;
+background-color: antiquewhite;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+p {
+    width: 40%;
 
 }
-
-img{
-    width: 20%;
-    border-radius: 50%;
-    margin-bottom: 15pix;
+table,th,td {
+    border: 1px solid black;
+     border-collapse: collapse;
+     padding: 10px;
+    
 }
-
-figcaption{font-weight: bold;
-
+table {
+    width: 40%;
 }
-
-.email{
-    font-size: 10px;
+th{
+    text-align: left;
 }
-a{
-    background-color: white;
-    padding: 15px 30px;
-    border-radius: 24px;
+a {background-color: #C0ED61;
+    padding: 10px 20px ;
+    margin-top:20px; 
+    display: block;
+    width: max-content;
     text-decoration: none;
-    font-weight: 700;
-    color: blue;
-    display:block 
-    width:max-content
+    color: black;
+    font-weight: bold;
+    border-radius: 8px;
 }
-
-
-
-
